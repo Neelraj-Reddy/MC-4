@@ -25,6 +25,9 @@ This repository contains code and resources for my research project on identifyi
 ## Methodology
 Initial Approach - We are using the YOLOv8 object detection model for defect detection in PCBs. The model is pretrained on a large dataset and then fine-tuned on our specific dataset for improved accuracy.
 
+Final Approach - Utilized pretrained YOLOv8s with 11.2 million parameters was able to perform excellent on the dataset with 1050 images for training, 300 for validation, 150 for test.
+The model is able to reach an accuracy of 97 % in the test set.
+
 ## Usage
 To replicate our experiments, follow these steps:
 1. Clone the repository.
