@@ -20,6 +20,7 @@ This repository contains code and resources for my research project on identifyi
 - **February 8, 2024**: Creation of GitHub repository for project updates.
 - **February 9, 2024**: Exploring CNN-based feature extraction to overcome alignment difference between template and defect images (Data Preprocessing).
 - **February 10, 2024**: Exploring more on Feature extraction techniques.
+- **February 12, 2024**: Successful implementation of the project using YOLOv8s with 11.2 million parameters. Reached accuracy of 98 %.
 
 ## Methodology
 Initial Approach - We are using the YOLOv8 object detection model for defect detection in PCBs. The model is pretrained on a large dataset and then fine-tuned on our specific dataset for improved accuracy.
