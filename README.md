@@ -23,7 +23,7 @@ This repository contains code and resources for my research project on identifyi
 - **February 10, 2024**: Exploring more on Feature extraction techniques.
 - **February 12, 2024**: Successful implementation of the project using YOLOv8s with 11.2 million parameters. Reached accuracy of 98 %.
 - **Feburary 13, 2024**: Started writing work for the paper.
-- **Feburary 17, 2024**: Completed the writing work.
+- **Feburary 17, 2024**: Completed the paper writing work.
 
 ## Methodology
 1. Initial Approach - We are using the YOLOv8 object detection model for defect detection in PCBs. The model is pretrained on a large dataset and then fine-tuned on our specific dataset for improved accuracy.
